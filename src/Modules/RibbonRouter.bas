@@ -1,6 +1,4 @@
 Attribute VB_Name = "RibbonRouter"
-'@lang VBA
-
 Sub ApplyPythonSyntaxHighlight(control As IRibbonControl)
     
     HighlightSelection "HighlightPython"

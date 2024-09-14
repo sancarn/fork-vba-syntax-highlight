@@ -1,6 +1,4 @@
 Attribute VB_Name = "constCsharp"
-'@lang VBA
-
 Public Sub HighlightCsharp()
      
     LANGUAGE_ = "Code"

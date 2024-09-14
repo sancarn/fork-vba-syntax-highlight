@@ -1,6 +1,4 @@
 Attribute VB_Name = "constHtml"
-'@lang VBA
-
 Public Sub HighlightHtml()
      
     LANGUAGE_ = "Markup"

@@ -1,6 +1,4 @@
 Attribute VB_Name = "FormHandler"
-'@lang VBA
-
 Public LANGUAGES_ As Variant
 ''
 

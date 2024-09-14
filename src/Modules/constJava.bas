@@ -1,6 +1,4 @@
 Attribute VB_Name = "constJava"
-'@lang VBA
-
 Public Sub HighlightJava()
      
     LANGUAGE_ = "Code"

@@ -1,6 +1,4 @@
 Attribute VB_Name = "constShell"
-'@lang VBA
-
 Public Sub HighlightShell()
 
     LANGUAGE_ = "Shell"
